@@ -1,7 +1,7 @@
 Evernote URI Handler
 ====================
 
-A simple custom URI handler for Evernote.
+A simple custom URI handler for [Evernote][] on Mac OS X.
 
 Installation
 ------------
@@ -9,18 +9,18 @@ Installation
 1. [Download][]
 2. Unzip
 3. Put the .app somewhere (/Applications/Utilities is as good a place as any)
-4. Launch it once, to register it as the handler for x-evernote:// URIs
+4. Launch it once, to register it as the handler for `x-evernote://` URIs
 
 URIs
 ----
 
 At the moment the only thing you can do is trigger a search. Search URIs are in
-the form `x-evernote://search?query={query}`. If you've already downloaded the
-.app and run it once, you can [click here][test search] to trigger a search. It
-should launch Evernote, open a collection window and search for "OS X".
+the form `x-evernote://search?query={query}`. Once you finish the installation
+steps above, you can [click here][test search] to trigger a search. It should
+launch Evernote, open a collection window and search for "OS X".
 
-Searching in Evernote is actually pretty powerful. Check out their docs for
-details.
+Searching in Evernote is actually pretty powerful. Check out the
+[Evernote search docs][] for details.
 
 Why?
 ---
@@ -40,7 +40,9 @@ Here's what my custom Evernote search looks like in Alfred:
 ![Alfred Config](Evernote-URI-Handler/raw/master/images/alfred.png)
 
 
-[Download]: http://github/rfletcher/Evernote-URI-Handler/zipball/master
+[Download]: Evernote-URI-Handler/zipball/master
 [Alfred]: http://alfredapp.com
+[Evernote]: http://evernote.com
+[Evernote search docs]: http://www.evernote.com/about/kb/article/advanced-search
 [LaunchBar]: http://www.obdev.at/products/launchbar/
 [test search]: x-evernote://search?query=%22OS%20X%22
