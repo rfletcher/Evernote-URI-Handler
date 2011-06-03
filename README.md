@@ -26,7 +26,7 @@ Why?
 ---
 
 I've recently switched from [LaunchBar][] to [Alfred][]. Reading through some
-Alfred tips and tricks, someone suggested adding a custom search for searching
+[Alfred tips and tricks][], someone suggested adding a custom search for searching
 in the Spotify app via its `spotify://` URI handler. I wanted a similar custom
 search for Evernote, but it doesn't have a URI handler. AppleScript to the
 rescue.
@@ -42,6 +42,7 @@ Here's what my custom Evernote search looks like in Alfred:
 
 [Download]: Evernote-URI-Handler/zipball/master
 [Alfred]: http://alfredapp.com
+[Alfred tips and tricks]: http://alfredtips.tumblr.com/
 [Evernote]: http://evernote.com
 [Evernote search docs]: http://www.evernote.com/about/kb/article/advanced-search
 [LaunchBar]: http://www.obdev.at/products/launchbar/
