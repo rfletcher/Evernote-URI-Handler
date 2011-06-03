@@ -28,13 +28,13 @@ in the Spotify app via its `spotify://` URI handler. I wanted a similar custom
 search for Evernote, but it doesn't have a URI handler. AppleScript to the
 rescue.
 
-Of course, you can use this script for LaunchBar, too. It just never occurred to
-me to use a local app's custom URI handler that way until the Spotify
-suggestion. It's really handy!
+Of course, you could also use this script along with LaunchBar, Quicksilver,
+etc. It just never occurred to me to use a local app's custom URI handler that
+way until the Spotify suggestion. It's really handy!
 
 Here's what my custom Evernote search looks like in Alfred:
 
-![Alfred Config](tree/master/images/alfred.jpg)
+![Alfred Config](Evernote-URI-Handler/raw/master/images/alfred.png)
 
 [Download]: http://github/rfletcher/Evernote-URI-Handler/zipball/master
 [Alfred]: http://alfredapp.com
