@@ -16,8 +16,9 @@ URIs
 
 At the moment the only thing you can do is trigger a search. Search URIs are in
 the form `x-evernote://search?query={query}`. Once you finish the installation
-steps above, you can [click here][test search] to trigger a search. It should
-launch Evernote, open a collection window and search for "OS X".
+steps above, you can try loading `x-evernote://search?query=test` to trigger a
+search. It should launch Evernote, open a collection window and search for
+"test".
 
 Searching in Evernote is actually pretty powerful. Check out the
 [Evernote search docs][] for details.
@@ -46,4 +47,3 @@ Here's what my custom Evernote search looks like in Alfred:
 [Evernote]: http://evernote.com
 [Evernote search docs]: http://www.evernote.com/about/kb/article/advanced-search
 [LaunchBar]: http://www.obdev.at/products/launchbar/
-[test search]: x-evernote://search?query=%22OS%20X%22
