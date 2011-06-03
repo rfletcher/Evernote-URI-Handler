@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
+<?xml version="1.0"?>
 <dict>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
@@ -13,11 +14,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Untitled</string>
+	<string>Evernote URI Handler</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
-	<string>ENUH</string>
+	<string>aplt</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -36,9 +37,9 @@
 		<key>positionOfDivider</key>
 		<real>333</real>
 		<key>savedFrame</key>
-		<string>1733 240 602 582 1440 -300 1920 1200 </string>
+		<string>92 333 602 582 0 0 1920 1058 </string>
 		<key>selectedTabView</key>
-		<string>result</string>
+		<string>event log</string>
 	</dict>
 	<key>CFBundleURLTypes</key>
 	<array>
