@@ -20,8 +20,8 @@ steps above, you can try opening `x-evernote://search?query=test` in your
 browser to trigger a search. It should launch Evernote, open a collection window
 and search for "test".
 
-Searching in Evernote is actually pretty powerful. Check out the
-[Evernote search docs][] for details.
+Your search can include any of the advanced Evernote search operators, which are
+actually pretty powerful. Check out the [Evernote search docs][] for details.
 
 Why?
 ---
