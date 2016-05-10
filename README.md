@@ -38,7 +38,7 @@ way until the Spotify suggestion. It's really handy!
 
 Here's what my custom Evernote search looks like in Alfred:
 
-![Alfred Config](Evernote-URI-Handler/raw/master/images/alfred.png)
+![Alfred Config](https://raw.githubusercontent.com/rfletcher/Evernote-URI-Handler/master/images/alfred.png)
 
 
 [Download]: Evernote-URI-Handler/zipball/master
